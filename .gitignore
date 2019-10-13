@@ -1,0 +1,7 @@
+Makefile
+make.bat
+_build/
+_static/
+_templates/
+*.unitypackage
+*.zip
