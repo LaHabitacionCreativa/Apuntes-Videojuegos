@@ -8,10 +8,12 @@ Programación
 
    apuntes
    controlTactil
+   tweens
    almacenamiento
    nivelesTiles
    patrones
    gameManager
+   clasificacionesDreamlo
    googleServices
    cardboard
    pong
