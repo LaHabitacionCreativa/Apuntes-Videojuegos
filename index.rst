@@ -9,8 +9,7 @@ Apuntes de desarrollo de videojuegos
    prog/index
    arte/index
    negocio/index
-   recursos/index
-
+   
 
 Autores
 =========

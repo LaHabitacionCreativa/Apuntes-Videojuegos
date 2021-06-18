@@ -10,3 +10,4 @@ Arte
    mattePainting
    animacion2d
    modeladoOrganico
+   voxel
