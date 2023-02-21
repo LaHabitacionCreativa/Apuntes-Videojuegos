@@ -23,7 +23,7 @@
 
 * [Pintura Digital](arte/pinturaDigital.rst)
 * [Matte Painting](arte/mattePainting.rst)
-* [Animación 2D](arte/animacion2D.rst)
+* [Animación 2D](arte/animacion2d.rst)
 * [Modelado Orgánico](arte/modeladoOrganico.rst)
 * [Voxel](arte/voxel.rst)
 
